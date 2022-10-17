@@ -1,0 +1,8 @@
+C:\Users\ADYTZU\Documents\Shift+n\bin\Debug\Shift+n.exe.config
+C:\Users\ADYTZU\Documents\Shift+n\bin\Debug\Shift+n.exe
+C:\Users\ADYTZU\Documents\Shift+n\bin\Debug\Shift+n.pdb
+C:\Users\ADYTZU\Documents\Shift+n\obj\Debug\Shift+n.csproj.AssemblyReference.cache
+C:\Users\ADYTZU\Documents\Shift+n\obj\Debug\Shift+n.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADYTZU\Documents\Shift+n\obj\Debug\Shift+n.csproj.CoreCompileInputs.cache
+C:\Users\ADYTZU\Documents\Shift+n\obj\Debug\Shift+n.exe
+C:\Users\ADYTZU\Documents\Shift+n\obj\Debug\Shift+n.pdb
