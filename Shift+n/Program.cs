@@ -52,7 +52,7 @@ namespace Caesar_cipher
                 if (isLetter(v[i]))
                 {
                     if ((v[i] >= 'a' && v[i] <= 'z'))
-                        decrypted += (char)((v[i] + 26 - n - 'A') % 26 + 'A');
+                        decrypted += (char)((v[i] + 26 - n - 'a') % 26 + 'a');
                     else if ((v[i] >= 'A' && v[i] <= 'Z'))
                         decrypted += (char)((v[i] + 26 - n - 'A') % 26 + 'A');
                 }
